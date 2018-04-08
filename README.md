@@ -20,10 +20,6 @@ npm run build --report
 
 ## App Info
 
-### Author
-
-Baedee, Great Leh
-[Great Baedee](https://www.greatbaedee.com)
 
 ### Version
 
